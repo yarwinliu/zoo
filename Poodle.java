@@ -13,21 +13,9 @@ public class Poodle extends Dog
     /**
      * Constructor for objects of class Poodle
      */
-    public Poodle(String animalName)
+    public Poodle(final String animalName, Colour colour)
     {
         // initialise instance variables
-        name = animalName;
-    }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
+        breed = Breed.POODLE; 
     }
 }
