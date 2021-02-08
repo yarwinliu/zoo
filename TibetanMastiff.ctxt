@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TibetanMastiff
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TibetanMastiff\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=animalName\ colour
+comment1.target=TibetanMastiff(java.lang.String,\ Colour)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TibetanMastiff\r\n
+numComments=2

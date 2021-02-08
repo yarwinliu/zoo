@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n
+comment1.params=
+comment1.target=Species\ get_species()
+comment2.params=
+comment2.target=Food\ get_food()
+numComments=3

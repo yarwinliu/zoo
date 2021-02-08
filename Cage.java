@@ -3,8 +3,9 @@
  */
 import java.util.ArrayList;
 
-public class Cage
+public class Cage 
 {
+    
     private int cageNumber;
     
     private ArrayList<Animal> animals;
@@ -17,9 +18,10 @@ public class Cage
         return true;
     }
     
-    /*public Cage(int number){
+    public Cage(int number){
         //Cage[] cage1 = 
         //poodles[0] = new Poodle("1");
+        cageNumber = number;
     }
     
     public int getNumber() {
@@ -28,5 +30,5 @@ public class Cage
     
     public void setNumber(int number) {
         cageNumber = number;
-    }*/
+    }
 }

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mud
+comment1.params=name\ colour
+comment1.target=Mud(java.lang.String,\ Colour)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mud\r\n
+numComments=2
