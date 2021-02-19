@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Snapping
-comment1.params=name\ colour
-comment1.target=Snapping(java.lang.String,\ Colour)
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Snapping\r\n
-numComments=2
