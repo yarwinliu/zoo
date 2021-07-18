@@ -14,9 +14,9 @@ A zoo will be an object that contains a list of animals.
 -more than one species in each cage
 -DONT LET THE ANIMALS EAT EACH OTHER (enumeration like herbivore, omnivore, carnivore)
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: ZOO
+PURPOSE OF PROJECT: 
+VERSION or DATE: 2021/02/18
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: yarwinliu
 USER INSTRUCTIONS:
